@@ -2,4 +2,4 @@
 Fashion Classification ML Model
 
 
-Data \set taken from kaggle : https://www.kaggle.com/datasets/zalando-research/fashionmnist
+Dataset taken from kaggle : https://www.kaggle.com/datasets/zalando-research/fashionmnist
